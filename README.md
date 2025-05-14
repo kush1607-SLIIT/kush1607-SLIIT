@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Kushan Samuditha Wijethunga
 
 <!--
 **kush1607-SLIIT/kush1607-SLIIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
